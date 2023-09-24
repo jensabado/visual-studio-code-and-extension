@@ -1,0 +1,31 @@
+{
+	"files.autoSave": "afterDelay",
+	"editor.wordWrap": "on",
+	"beautify.config": "",
+	"prettier.tabWidth": 5,
+	"[css]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"workbench.productIconTheme": "el-vsc-v1-icons",
+	"[scss]": {
+		"editor.defaultFormatter": "HookyQR.beautify"
+	},
+	"[php]": {
+		"editor.defaultFormatter": "kokororin.vscode-phpfmt"
+	},
+	"git.autofetch": true,
+	"prettier.useTabs": true,
+	"editor.defaultFormatter": "HookyQR.beautify",
+	"workbench.colorTheme": "Deepdark Material Theme | Full Black Version",
+	"liveServer.settings.donotShowInfoMsg": true,
+	"security.workspace.trust.untrustedFiles": "open",
+	"editor.fontLigatures": false,
+	"editor.fontVariations": false,
+	"terminal.integrated.fontFamily": "monospace",
+	"editor.fontFamily": "'Red Hat Mono', Monospace, 'Courier New', monospace",
+	"editor.fontWeight": "500",
+	"redhat.telemetry.enabled": true,
+	"terminal.integrated.env.windows": {},
+	"workbench.iconTheme": "vs-nomo-dark",
+	"window.zoomLevel": -1
+}
